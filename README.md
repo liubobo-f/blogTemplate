@@ -1,1 +1,1 @@
-# blogtest
+# 用于极简创建Blog的仓库
