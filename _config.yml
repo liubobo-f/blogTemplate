@@ -1,8 +1,11 @@
-# title出现在左上角和页面底部
+# title出现在左上角和页面底部左侧
 title: 胡言乱语的地方
 
-# description出现在页面底部右下角
+# description出现在页面底部右侧
 description: A blog about my journey in tech.
+
+# 作者出现在页面底部左侧
+author: 打工砖家刘波波
 
 # theme可自由选择，推荐极简主题minima
 theme: minima
