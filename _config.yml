@@ -4,9 +4,7 @@ title: 一个简单的BLOG
 # description出现在页面底部右侧
 description: 这么简单好用的BLOG你值得拥有
 # 作者出现在页面底部左侧
-author: 
-  name: 打工砖家刘波波
-  email: "15227874@qq.com"
+author: 打工砖家刘波波
 
 # theme可自由选择，推荐极简主题minima
 theme: minima
