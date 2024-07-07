@@ -4,8 +4,7 @@
 1. fork仓库
 2. 修改 _config.yml 文件中的页面基本信息
 3. 选择Settings >> Pages 找到并记录发布地址
-![image](https://github.com/funnymax/blogtemplate/assets/111578882/59f196b9-54c1-4fe8-9245-5f952b2b690a)
-4. 开发发布文章
+4. 可以发布文章了！
 
 ## 文章发布注意事项：
 1. 使用md格式发布
